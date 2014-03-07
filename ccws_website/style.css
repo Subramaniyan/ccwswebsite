@@ -1,0 +1,133 @@
+
+a:link {
+ color: #C76114;
+ text-decoration: none;
+}
+
+a:visited {
+ color:  #000000;
+}
+
+a:hover {
+ color: #C76114;
+ border-bottom:1px dashed #C76114;
+ 
+ font-size:15px;
+}
+
+a:active {
+ text-decoration:none;
+}
+
+.bld {
+ font-weight: bold;
+}
+
+
+body {
+	color: black;
+	text-align:justify;
+	font-family: Calibri,Georgia;
+	font-size: 15px;
+	background-color:#E2EAF6;	
+	}
+
+h1 {
+      font-size: 1.3em; 
+      color: #C76114;
+}
+
+strong {
+	color: #C76114;
+}
+
+.i{
+color: blue;
+ font-weight: bold; }
+
+.j{
+color: Black; }
+
+.k{
+color: black; }
+
+.l{
+ color: red; }
+
+.fstline{
+	margin-left: 25px;
+}	
+
+
+#marleft{
+	margin-left: 2em;
+}
+
+.cit{
+	font-family: Times New Roman;
+	font-size: 1.5em;
+	color: #950909;
+	font-weight: bold;
+}
+
+
+.bld1{
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.aligna{
+	margin-left: 20px;
+}
+
+
+.lin{
+	text-align: center;
+	margin-top: 38%;
+}
+
+#image{
+	position: absolute;
+	bottom: 0.6em;
+	left: 0.6em;
+}
+
+h2 {
+      font-size: 1.3em; 
+      color: blue;
+}
+
+.rit{
+	color: #950909;
+}
+
+.bor{
+	border: 0px solid;
+}
+
+b{
+	color: #0D18A9;	
+}
+
+.gree{
+	background-color:#129A00;
+}
+
+.rnd {
+	-webkit-border-radius: 8px 8px 0px 0px ;
+	-moz-border-radius: 8px 8px 0px 0px;
+	border-radius: 8px 8px 0px 0px;
+	}
+
+a[href$=".pdf"]{
+	padding-right: 50px;
+	background: url(pdf_icon.gif) no-repeat right center;
+}
+a[href^="http://"]:hover {
+	padding-right: 20px;
+	background: url(external_link.gif) no-repeat right center;
+}
+
+.nam{
+	border-bottom: 1px dotted black;
+}
